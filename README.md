@@ -1,6 +1,11 @@
 # 系统镜像
 Optioning System ISO file
 
+# 更新日志
+1. 2022.4.5 发布仓库
+2. 2022.5.1 更新仓库声明
+3. 2022.5.30 更新Windows11镜像
+
 You can download Linux and windows os
 You can also visit the url:https://www.microsoft.com to get windows
 
